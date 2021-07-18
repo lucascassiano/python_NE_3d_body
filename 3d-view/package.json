@@ -1,0 +1,18 @@
+{
+  "name": "3d-view",
+  "version": "1.0.0",
+  "description": "3D pose view",
+  "main": "index.js",
+  "author": "lucascassiano",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build ./index.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {
+    "three": "^0.130.1"
+  }
+}
